@@ -3,4 +3,6 @@ Description: <br> This repository contains the work done for Task 1 of my intern
 Data Analysis <br>
 Data Visualization <br>
 Statistical Analysis <br>
-Python Programming
+Python Programming <br> <br>
+About Company : <br>
+VilearnX Advanced Technology is a leading company in the field of data analytics and technology solutions. They focus on providing advanced data-driven solutions to help businesses make informed decisions. Their team of experts is dedicated to leveraging cutting-edge technologies to deliver impactful insights and drive innovation.
